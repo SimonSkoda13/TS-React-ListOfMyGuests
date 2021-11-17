@@ -45,7 +45,7 @@ const AddToList:React.FC<IProps> = ({people, setPeople}) => {
             img:"",
             note:"",
             age:""
-        })
+        } )
     }
     
     return (
