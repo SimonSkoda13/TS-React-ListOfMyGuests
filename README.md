@@ -14,20 +14,11 @@ This project is a simple React application developed using TypeScript. It's desi
 git clone [Your Repository URL]
 cd [Your Project Folder Name]
 
-markdown
-Copy code
-
 2. **Install Dependencies:**
 npm install
 
-markdown
-Copy code
-
 3. **Run the Application:**
 npm start
-
-markdown
-Copy code
 
 This will run the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
